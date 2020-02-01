@@ -2,7 +2,7 @@ package com.star.nyethack
 
 fun main(args: Array<String>) {
 
-    val player = Player()
+    val player = Player("Star")
 
     val statusFormatString = "(HP)(A) -> H"
 
